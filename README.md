@@ -2,8 +2,10 @@
 
 `ECT-MST` project repository: investigating the roles of aperiodic activity and slow oscillations in electroconvulsive therapy (ECT) and magnetic seizure therapy (MST) as a treatment for Major Depressive Disorder (MDD)
 
-Developed by Bradley Voytek team at UCSD.
-Led by Itay Hadas and Bradley Voytek 
+The Analysis was developed by Bradley Voytek team at UCSD.
+The Project was co-led by [Itay Hadas](https://itay.hadas](https://itayhadas.github.io) and Bradley Voytek. 
+
+Smith, S.E., Kosik, E.L., van Engen, Q., Kohn, J., Hill, A.T., Zomorrodi, R., Blumberger, D.M., Daskalakis, Z.J., Hadas, I., Voytek, B., 2023. Magnetic seizure therapy and electroconvulsive therapy increase aperiodic activity. Transl Psychiatry 13, 1–11. [DOI](https://doi.org/10.1038/s41398-023-02631-y)
 
 [Preprint](https://www.medrxiv.org/content/10.1101/2023.01.11.23284450v1)
 
